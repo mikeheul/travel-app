@@ -1,6 +1,7 @@
 # Travel App
 
 Build a feature-rich travel app with Next.js 14 and Tailwind CSS, covering everything from a sleek UI to mobile-first best practices.
+Thanks JavaScript Mastery !
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
